@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d430b9a734d15944fb1e7d62130a6b64
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - evidenziaPrefab: {fileID: 8840262459014032895, guid: 325a70b9e7cab574ca526501152c1d74,
+      type: 3}
+  - blackt: {fileID: 8840262459014032895, guid: 0f8a6fc60afe2134dab6d76d22df582b,
+      type: 3}
+  - whitet: {fileID: 8840262459014032895, guid: 037061bf13cb4c0429a62ef5fbc110d7,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
